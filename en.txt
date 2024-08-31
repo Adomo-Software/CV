@@ -6,15 +6,15 @@ History:
 	ideas, and I try to implement them myself, or sometimes improve them.
 	I have worked briefly in several startups. I am active in cooperation.
 	What I did in startups:
-	- start-up 1: I wrote python automation scripts for various tasks (mostly
+	- start-up 1: I wrote Python automation scripts for various tasks (mostly
 	related to web-scrap).
 	Some real examples:
-	- The bot is designed to find bicycles of a specific price, in specific locations.
+	- The bot is designed to find bicycles of a specific price, in particular locations.
 	When found, send messages to Telegram.
-	- The bot is designed to find the most popular reddit posts, and according to the topic, make 10 min
+	- The bot is designed to find the most popular Reddit posts, and according to the topic, make 10 min
 	video montage to upload them to different YouTube channels
-	- start-up 2: I worked together with embedded linux in the yacto project.
-	I was selling wordpress installation services.
+	- start-up 2: I worked with embedded Linux in the yacto project.
+	I was selling WordPress installation services.
 
 Languages:
 	English Excellent
@@ -28,10 +28,10 @@ Igudžiai:
 		Work automation,
 		System logging
 		Knowledge of server architecture,
-		Web Application Installation (Like Wordpress)
+		Web Application Installation (Like WordPress)
 		Experience with AWS cloud architecture (AWS cloud architecture)
 		Scalable server/cloud infrastructure (I didn't know how to translate into Lithuanian)
-		Administration of BSD, MacOS systems
+		Administration of BSD, and MacOS systems
 
 
 Scripting languages:
@@ -47,13 +47,13 @@ Back-end
 	Nginx
 
 Web'ai/Front-end:
-	Plain HTML, CSS, Javascript, Wordpress, PHP
+	Plain HTML, CSS, Javascript, WordPress, PHP
 	Front-end Frameworks like Astro.js, react.js, php Symfony
 
 Java
-	I worked with a java professional who assigned me java tasks
+	I worked with a Java professional who assigned me Java tasks
 	Assignments were reviewed, corrected, and completed.
-	You can see the entire tasking process in the github links below
+	You can see the entire tasking process in the GitHub links below
 		https://github.com/Adomo-Software/rating-system
 		https://github.com/Adomo-Software/caesars-palace-casino
 		https://github.com/Adomo-Software/java-fix-me
