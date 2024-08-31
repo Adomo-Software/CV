@@ -1,5 +1,4 @@
 Istorija:
-
 	Daugiausia turiu patirties su linux (serveriais, desktopais), unix'ais, c programavimo
 	kalba.
 	Mėgstu atrasti naujus, inovatyvius sprendimus, sprendžiant įvairias IT problemas
@@ -49,3 +48,13 @@ Back-end
 Web'ai/Front-end:
 	Plain HTML, CSS, Javascript, Wordpress, PHP
 	Front-end Framework'ai, kaip "Astro.js", "react.js" "php Symfony"
+
+Java
+	Dirbau su java profesionalu, kurie skyrė man atlikti Java užduotis
+	Užduotys buvo peržiūrėtos, pataisytos, ir atliktos. 
+	Visą užduočių atlikimo procesą galite pažiūrėti per toliau nurodytuose github nuoroduose
+		https://github.com/Adomo-Software/rating-system
+		https://github.com/Adomo-Software/caesars-palace-casino
+		https://github.com/Adomo-Software/java-fix-me
+		https://github.com/Adomo-Software/hotel
+		https://github.com/Adomo-Software/StringMatch_2
