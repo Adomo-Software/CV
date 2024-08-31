@@ -1,0 +1,52 @@
+Istorija:
+
+	Daugiausia turiu patirties su linux (serveriais, desktopais), unix'ais, c programavimo
+	kalba.
+	Mėgstu atrasti naujus, inovatyvius sprendimus, sprendžiant įvairias IT problemas
+	Konkrečiau, Mėgstu naudotis įdomiais open-source sprendimais, ieškau įdomių
+	idėjų, ir bandau jas pats implementuot, ar kartais patobulint.
+	Trumpai esu dirbęs keliuose startapuose, jei man duoda konkrečią užduodį, ją
+	padarau, būnu aktyvus.
+	Startapuose ka buvau daręs:
+	- start-up 1: Rašiau python automotizavimo script'us įvairiem task'ams (daugiausiai
+	su web-scrap susiijusias).
+	Keli realūs pavizdžiai:
+	- Bot'as skirtas surasti konkrečios kainos, konkrečiose lokacijose, dviračius.
+	Suradus išsiūsti pranešimus i telegramą.
+	- Bot'as skirtas surasti populiariausius reddito postus, ir pagal temą, padaryti 10min
+	videjo montažą jas įkelti į skirtingus youtube channel'ius
+	- start-up 2: Bendrai dirbau su embeded linux'ais yacto projektu.
+	Pardavinėjau wordpress įdiegimo paslaugas.
+
+Kalbos:
+	English 	Puikiai
+	English 	Lietuviškai
+	Russian 	Vidutiniškai
+
+Igudžiai:
+	Linux (Unix) serverių administracija
+		Bash skriptinimas,
+		Darbų automatizavimas,
+		Sistemos žurnalo registravimas (System logging)
+		Serverio architektūros žinios,
+		Web Programų diegimas (Kaip Wordpress)
+		Patirtis su AWS debesies aplinka (AWS cloud architecture)
+		Scalable server/cloud infrastructure (nežinojau kaip išverst i lietuvių kalbą)
+		BSD, MacOS systemų administravimas
+
+
+Scripting kalbos:
+	Python,
+	Bash,
+	Javascript.
+
+Back-end
+	MySQL (Duomenų bazų Diegimas, Konfigūravimas, Stebėjimas)
+	Note.js (ir kiti native javascript runtimes, kaip deno.js)
+	PHP routers
+	Apache2
+	Nginx
+
+Web'ai/Front-end:
+	Plain HTML, CSS, Javascript, Wordpress, PHP
+	Front-end Framework'ai, kaip "Astro.js", "react.js" "php Symfony"
