@@ -3,10 +3,9 @@ Istorija:
 	Daugiausia turiu patirties su linux (serveriais, desktopais), unix'ais, c programavimo
 	kalba.
 	Mėgstu atrasti naujus, inovatyvius sprendimus, sprendžiant įvairias IT problemas
-	Konkrečiau, Mėgstu naudotis įdomiais open-source sprendimais, ieškau įdomių
+	Patinka naudotis įdomiais open-source sprendimais, ieškau įdomių
 	idėjų, ir bandau jas pats implementuot, ar kartais patobulint.
-	Trumpai esu dirbęs keliuose startapuose, jei man duoda konkrečią užduodį, ją
-	padarau, būnu aktyvus.
+	Trumpai esu dirbęs keliuose startapuose. Bendradarbiaudamas būnu aktyvus.
 	Startapuose ka buvau daręs:
 	- start-up 1: Rašiau python automotizavimo script'us įvairiem task'ams (daugiausiai
 	su web-scrap susiijusias).
