@@ -1,10 +1,10 @@
 Istorija:
-	Daugiausia turiu patirties su linux (serveriais, desktopais), unix'ais, c programavimo
+	Daugiausia turiu patirties su linux'ais, unix'ais, c programavimo
 	kalba.
 	Mėgstu atrasti naujus, inovatyvius sprendimus, sprendžiant įvairias IT problemas
 	Patinka naudotis įdomiais open-source sprendimais, ieškau įdomių
 	idėjų, ir bandau jas pats implementuot, ar kartais patobulint.
-	Trumpai esu dirbęs keliuose startapuose. Bendradarbiaudamas būnu aktyvus.
+	Trumpai esu dirbęs keliuose startup'uose. Bendradarbiaudamas būnu aktyvus.
 	Startapuose ka buvau daręs:
 	- start-up 1: Rašiau Python automotizavimo script'us įvairiem task'ams (daugiausiai
 	su web-scrap susiijusias).
@@ -50,7 +50,7 @@ Web'ai/Front-end:
 	Front-end Framework'ai, kaip "Astro.js", "react.js" "php Symfony"
 
 Java
-	Dirbau su java profesionalu, kurie skyrė man atlikti Java užduotis
+	Dirbau su java profesionalu, kuris skyrė man atlikti Java užduotis
 	Užduotys buvo peržiūrėtos, pataisytos, ir atliktos. 
 	Visą užduočių atlikimo procesą galite pažiūrėti per toliau nurodytuose GitHub nuoroduose
 		https://github.com/Adomo-Software/rating-system

@@ -30,7 +30,7 @@ Igudžiai:
 		Knowledge of server architecture,
 		Web Application Installation (Like WordPress)
 		Experience with AWS cloud architecture (AWS cloud architecture)
-		Scalable server/cloud infrastructure (I didn't know how to translate into Lithuanian)
+		Scalable server/cloud infrastructure
 		Administration of BSD, and MacOS systems
 
 
