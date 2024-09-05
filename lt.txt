@@ -13,7 +13,9 @@ Istorija:
 	Suradus išsiūsti pranešimus i telegramą.
 	- Bot'as skirtas surasti populiariausius Reddito postus, ir pagal temą, padaryti 10min
 	videjo montažą jas įkelti į skirtingus youtube channel'ius
-	- start-up 2: Bendrai dirbau su embeded Linux'ais yacto projektu.
+	- start-up 2 - Monopulse: Man buvo paskirta užduotis dirbti su 
+	embeded Linux'ais yacto projektu.
+	https://www.monopulse.eu/
 	Pardavinėjau WordPress įdiegimo paslaugas.
 
 Kalbos:
@@ -32,7 +34,6 @@ Igudžiai:
 		Scalable server/cloud infrastructure (nežinojau kaip išverst i lietuvių kalbą)
 		BSD ir MacOS systemų administravimas
 
-
 Scripting kalbos:
 	Python,
 	Bash,
@@ -50,7 +51,7 @@ Web'ai/Front-end:
 	Front-end Framework'ai, kaip "Astro.js", "react.js" "php Symfony"
 
 Java
-	Dirbau su java profesionalu, kuris skyrė man atlikti Java užduotis
+	Dirbau su profesionaliu java mentoriu, kuris skyrė man atlikti Java užduotis
 	Užduotys buvo peržiūrėtos, pataisytos, ir atliktos. 
 	Visą užduočių atlikimo procesą galite pažiūrėti per toliau nurodytuose GitHub nuoroduose
 		https://github.com/Adomo-Software/rating-system
@@ -58,3 +59,4 @@ Java
 		https://github.com/Adomo-Software/java-fix-me
 		https://github.com/Adomo-Software/hotel
 		https://github.com/Adomo-Software/StringMatch_2
+	veikla vyko ~1.5 mėnesius

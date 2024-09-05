@@ -1,11 +1,10 @@
-History:
+About me:
 	I mostly have experience with linux (servers, desktops), unix, c programming
 	language
 	I like to discover new, innovative solutions for various IT problems
 	I like to use interesting open-source solutions, I am looking for interesting ones
 	ideas, and I try to implement them myself, or sometimes improve them.
-	I have worked briefly in several startups. I am active in cooperation.
-	What I did in startups:
+	I have worked briefly in several startups, where is what i did:
 	- start-up 1: I wrote Python automation scripts for various tasks (mostly
 	related to web-scrap).
 	Some real examples:
@@ -13,16 +12,17 @@ History:
 	When found, send messages to Telegram.
 	- The bot is designed to find the most popular Reddit posts, and according to the topic, make 10 min
 	video montage to upload them to different YouTube channels
-	- start-up 2: I worked with embedded Linux in the yacto project.
-	I was selling WordPress installation services.
+	- start-up 2 - Monopulse: I was asigned a task to work
+	with embedded Linux in the yacto project.
+	https://www.monopulse.eu/
+	- I was selling WordPress installation services.
 
 Languages:
 	English Excellent
-	English Lithuanian
-	Russian On average
+	English Excellent
+	Russian Average
 
-
-Igudžiai:
+Skills:
 	 Linux (Unix) server administration
 		bash scripting,
 		Work automation,
@@ -32,7 +32,6 @@ Igudžiai:
 		Experience with AWS cloud architecture (AWS cloud architecture)
 		Scalable server/cloud infrastructure
 		Administration of BSD, and MacOS systems
-
 
 Scripting languages:
 	Python,
@@ -51,7 +50,7 @@ Web'ai/Front-end:
 	Front-end Frameworks like Astro.js, react.js, php Symfony
 
 Java
-	I worked with a Java professional who assigned me Java tasks
+	I worked with professional Java mentor who assigned me Java tasks
 	Assignments were reviewed, corrected, and completed.
 	You can see the entire tasking process in the GitHub links below
 		https://github.com/Adomo-Software/rating-system
@@ -59,3 +58,4 @@ Java
 		https://github.com/Adomo-Software/java-fix-me
 		https://github.com/Adomo-Software/hotel
 		https://github.com/Adomo-Software/StringMatch_2
+	The training took ~1.5 month
