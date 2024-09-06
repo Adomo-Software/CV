@@ -1,61 +1,67 @@
 About me:
-	I mostly have experience with linux (servers, desktops), unix, c programming
-	language
-	I like to discover new, innovative solutions for various IT problems
-	I like to use interesting open-source solutions, I am looking for interesting ones
-	ideas, and I try to implement them myself, or sometimes improve them.
-	I have worked briefly in several startups, where is what i did:
-	- start-up 1: I wrote Python automation scripts for various tasks (mostly
-	related to web-scrap).
-	Some real examples:
-	- The bot is designed to find bicycles of a specific price, in particular locations.
-	When found, send messages to Telegram.
-	- The bot is designed to find the most popular Reddit posts, and according to the topic, make 10 min
-	video montage to upload them to different YouTube channels
-	- start-up 2 - Monopulse: I was asigned a task to work
-	with embedded Linux in the yacto project.
-	https://www.monopulse.eu/
-	- I was selling WordPress installation services.
+	I mostly have experience with Linux servers, Unix, c programming language
+	I like Implementing interesting ideas.
+	I have worked briefly in 2 startups, here is what I did:
+	Start-up 1 - inn0web, website: https://inn0web.com, (time period 2022.08 - 2022.10):
+		- I wrote a bot for finding bicycles of a specific price, in particular locations.
+		When found, send information to Telegram.
+		- The bot is designed to find the most popular Reddit posts, and according to the topic, make 10 min
+		video montage to upload them to different YouTube channels
+	Start-up 2 - Monopulse, website: https://www.monopulse.eu, (time period ~2023.02): 
+		- I was assigned a task to work with embedded Linux in the yacto project.	
+	~2023.09 I was selling WordPress installation services. 
+	Service to transfer all Etsy products to WordPress using Etsy & Woocommerce API
+
+	NOTE: The source code of these projects is not public. but can be requested via adomasda@gmail.com
+
+Java:
+	I worked with a professional Java mentor who assigned me Java tasks, 
+	which were reviewed, corrected, and completed through a process involving 
+	Jira for task management, Git for version control, and code reviews
+	conducted via Pull Requests. 
+	You can see the entire tasking process in the GitHub links below.
+		https://github.com/Adomo-Software/java-fix-me
+			Tasks: JFM-1, JFM-2, JFM-4
+		https://github.com/Adomo-Software/rating-system
+			Tasks: JC-2, JC-4
+		https://github.com/Adomo-Software/caesars-palace-casino
+			Tasks: JBH-17
+		https://github.com/Adomo-Software/cherry-tree-hotel
+			Tasks: JBH-13
+		https://github.com/Adomo-Software/continental-hotel
+			Tasks: JBH-5
+		https://github.com/Adomo-Software/hotel
+			Tasks: JBH-1, JBH-4
+	(period 2024.07 - 2024.09 ~1.5 months)
 
 Languages:
-	English Excellent
-	English Excellent
-	Russian Average
+	Lithuanian Excellent
+	English    Excellent
+	Russian    Average
 
 Skills:
-	 Linux (Unix) server administration
-		bash scripting,
-		Work automation,
-		System logging
-		Knowledge of server architecture,
-		Web Application Installation (Like WordPress)
-		Experience with AWS cloud architecture (AWS cloud architecture)
-		Scalable server/cloud infrastructure
-		Administration of BSD, and MacOS systems
+	Back-end and Server administration technologies
+		MySQL (Database Installation, Configuration, Monitoring) ~1 year
+		Note.js (and other native javascript runtimes like deno.js) ~1 year
+		PHP + PHP routers ~0.5 year
+		Apache2 ~2 years
+		Nginx ~1 year
+		Containers (Docker, Systemd-nspawn, VM's) ~2 years
+		Administration of BSD, and MacOS systems (not only Linux) ~1 year
+		WordPress ~3 years
 
-Scripting languages:
-	Python,
-	bash,
-	Javascript.
+	Web'ai/Front-end:
+		Plain HTML, CSS, Javascript
+		WordPress, PHP
+		Front-end Frameworks like Astro.js, react.js, php Symfony
 
-Back-end
-	MySQL (Database Installation, Configuration, Monitoring)
-	Note.js (and other native javascript runtimes like deno.js)
-	PHP routers
-	Apache2
-	Nginx
-
-Web'ai/Front-end:
-	Plain HTML, CSS, Javascript, WordPress, PHP
-	Front-end Frameworks like Astro.js, react.js, php Symfony
-
-Java
-	I worked with professional Java mentor who assigned me Java tasks
-	Assignments were reviewed, corrected, and completed.
-	You can see the entire tasking process in the GitHub links below
-		https://github.com/Adomo-Software/rating-system
-		https://github.com/Adomo-Software/caesars-palace-casino
-		https://github.com/Adomo-Software/java-fix-me
-		https://github.com/Adomo-Software/hotel
-		https://github.com/Adomo-Software/StringMatch_2
-	The training took ~1.5 month
+Most experience with these programming languages (in order):
+	1. Java ~1 year
+	2. C ~2 years
+	3. Javascript ~4 years
+	4. Bash ~5 years,
+	5. PHP ~0.5 year
+	6. Python ~4 years,
+	7. C++ ~6 years
+	
+	Note: order is based on confidence/proficiency rather than years of experience.
