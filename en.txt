@@ -9,8 +9,7 @@ About me:
 		video montage to upload them to different YouTube channels
 	Start-up 2 - Monopulse, website: https://www.monopulse.eu, (time period ~2023.02): 
 		- I was assigned a task to work with embedded Linux in the yacto project.	
-	~2023.09 I was selling WordPress installation services. 
-	Service to transfer all Etsy products to WordPress using Etsy & Woocommerce API
+	~2023.09 Created service to help transfer all Etsy products to WordPress using Etsy & Woocommerce API
 
 	NOTE: The source code of these projects is not public.
 
@@ -30,6 +29,9 @@ Java:
 		https://algirdasalisauskas.atlassian.net/jira/software/projects/JBH/list
 		https://algirdasalisauskas.atlassian.net/jira/software/projects/JC/list
 		https://algirdasalisauskas.atlassian.net/jira/software/projects/JFM/list
+
+	Topics learned: All OOP basics, Junit5 usage, Memory optimization, Advanced Hashmap usage, 
+		Proper code formatting, styling, package structure, and Advanced git usage.
 	(period 2024.07 - 2024.09 ~1.5 months)
 
 Languages:
