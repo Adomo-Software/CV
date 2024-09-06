@@ -12,7 +12,7 @@ About me:
 	~2023.09 I was selling WordPress installation services. 
 	Service to transfer all Etsy products to WordPress using Etsy & Woocommerce API
 
-	NOTE: The source code of these projects is not public. but can be requested via adomasda@gmail.com
+	NOTE: The source code of these projects is not public.
 
 Java:
 	I worked with a professional Java mentor who assigned me Java tasks, 
