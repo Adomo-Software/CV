@@ -1,20 +1,13 @@
+Adomas Daškevičius, Vilnius.
+
 About me:
 	I mostly have experience with Linux servers, Unix, c programming language
 	I like Implementing interesting ideas.
+
+
+Experience:
 	I have worked briefly in 2 startups, here is what I did:
-	Start-up 1 - inn0web, website: https://inn0web.com, (time period 2022.08 - 2022.10):
-		- I wrote a bot for finding bicycles of a specific price, in particular locations.
-		When found, send information to Telegram.
-		- The bot is designed to find the most popular Reddit posts, and according to the topic, make 10 min
-		video montage to upload them to different YouTube channels
-	Start-up 2 - Monopulse, website: https://www.monopulse.eu, (time period ~2023.02): 
-		- I was assigned a task to work with embedded Linux in the yacto project.	
-	~2023.09 Created service to help transfer all Etsy products to WordPress using Etsy & Woocommerce API
-
-	NOTE: The source code of these projects is not public.
-
-Java:
-	I worked with a professional Java mentor who assigned me Java tasks, 
+	2024.07 - 2024.09: I worked with a professional mentor who assigned me Java tasks, 
 	which were reviewed, corrected, and completed through a process involving 
 	Jira for task management, Git for version control, and code reviews
 	conducted via Pull Requests. 
@@ -25,19 +18,24 @@ Java:
 		https://github.com/Adomo-Software/cherry-tree-hotel
 		https://github.com/Adomo-Software/continental-hotel
 		https://github.com/Adomo-Software/hotel
-	Tasks lists:
-		https://algirdasalisauskas.atlassian.net/jira/software/projects/JBH/list
-		https://algirdasalisauskas.atlassian.net/jira/software/projects/JC/list
-		https://algirdasalisauskas.atlassian.net/jira/software/projects/JFM/list
+	Jira projects (Tasks):
+		[Java basics: Hotel](https://algirdasalisauskas.atlassian.net/jira/software/projects/JBH/list)
+		[Java Collections](https://algirdasalisauskas.atlassian.net/jira/software/projects/JC/list)
+		[Java Fix Me](https://algirdasalisauskas.atlassian.net/jira/software/projects/JFM/list)
+	Topics learned: OOP (Encapsulation, Inheritance, Polymorphism, and Abstraction), Junit5 usage, Memory optimization, Advanced Hashmap usage, Following Java code conventions
+	(Proper code formatting, styling, package structure),
+	Advanced git usage.
+	(period ~1.5 months)
+	~2023.09: Created service to help transfer all Etsy products to WordPress using Etsy & Woocommerce API
+	~2023.02: Worked at startup "Monopulse", website: https://www.monopulse.eu: 
+		- I was assigned a task to work with embedded Linux in the yacto project.	
+	2022.08 - 2022.10: Worked at startup "inn0web", website: https://inn0web.com:
+		- I wrote a bot for finding bicycles of a specific price, in particular locations.
+		When found, send information to Telegram.
+		- The bot is designed to find the most popular Reddit posts, and according to the topic, make 10 min
+		video montage to upload them to different YouTube channels
+	(NOTE: The source code of these projects is not public)
 
-	Topics learned: All OOP basics, Junit5 usage, Memory optimization, Advanced Hashmap usage, 
-		Proper code formatting, styling, package structure, and Advanced git usage.
-	(period 2024.07 - 2024.09 ~1.5 months)
-
-Languages:
-	Lithuanian Excellent
-	English    Excellent
-	Russian    Average
 
 Skills:
 	Back-end and Server administration technologies
@@ -55,7 +53,13 @@ Skills:
 		WordPress, PHP
 		Front-end Frameworks like Astro.js, react.js, php Symfony
 
-Most experience with these programming languages (in order):
+Languages:
+	Lithuanian Excellent
+	English    Excellent
+	Russian    Average
+
+
+Programming languages (in order):
 	1. Java ~1 year
 	2. C ~2 years
 	3. Javascript ~4 years
@@ -65,3 +69,15 @@ Most experience with these programming languages (in order):
 	7. C++ ~6 years
 	
 	Note: order is based on confidence/proficiency rather than years of experience.
+
+Education:
+	2008 - 2020: Minties gimnazija
+	2020 - 2023: Vilniaus Kolegija (Kompiuterių sistemos)
+	2024 - dabar: Techin (Elektrikas)
+
+Hobbies:
+	Biking
+	Camping
+	Scary stories
+	Learning Software (unsurprisingly)
+	Making food
