@@ -21,17 +21,15 @@ Java:
 	conducted via Pull Requests. 
 	You can see the entire tasking process in the GitHub links below.
 		https://github.com/Adomo-Software/java-fix-me
-			Tasks: JFM-1, JFM-2, JFM-4
 		https://github.com/Adomo-Software/rating-system
-			Tasks: JC-2, JC-4
 		https://github.com/Adomo-Software/caesars-palace-casino
-			Tasks: JBH-17
 		https://github.com/Adomo-Software/cherry-tree-hotel
-			Tasks: JBH-13
 		https://github.com/Adomo-Software/continental-hotel
-			Tasks: JBH-5
 		https://github.com/Adomo-Software/hotel
-			Tasks: JBH-1, JBH-4
+	Tasks lists:
+		https://algirdasalisauskas.atlassian.net/jira/software/projects/JBH/list
+		https://algirdasalisauskas.atlassian.net/jira/software/projects/JC/list
+		https://algirdasalisauskas.atlassian.net/jira/software/projects/JFM/list
 	(period 2024.07 - 2024.09 ~1.5 months)
 
 Languages:
