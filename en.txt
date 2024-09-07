@@ -4,9 +4,7 @@ About me:
 	I mostly have experience with Linux servers, Unix, c programming language
 	I like Implementing interesting ideas.
 
-
 Experience:
-	I have worked briefly in 2 startups, here is what I did:
 	2024.07 - 2024.09: I worked with a professional mentor who assigned me Java tasks, 
 	which were reviewed, corrected, and completed through a process involving 
 	Jira for task management, Git for version control, and code reviews
@@ -36,7 +34,6 @@ Experience:
 		video montage to upload them to different YouTube channels
 	(NOTE: The source code of these projects is not public)
 
-
 Skills:
 	Back-end and Server administration technologies
 		MySQL (Database Installation, Configuration, Monitoring) ~1 year
@@ -57,7 +54,6 @@ Languages:
 	Lithuanian Excellent
 	English    Excellent
 	Russian    Average
-
 
 Programming languages (in order):
 	1. Java ~1 year
