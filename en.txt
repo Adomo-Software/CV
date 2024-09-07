@@ -23,7 +23,6 @@ Experience:
 	Topics learned: OOP (Encapsulation, Inheritance, Polymorphism, and Abstraction), Junit5 usage, Memory optimization, Advanced Hashmap usage, Following Java code conventions
 	(Proper code formatting, styling, package structure),
 	Advanced git usage.
-	(period ~1.5 months)
 	~2023.09: Created service to help transfer all Etsy products to WordPress using Etsy & Woocommerce API
 	~2023.02: Worked at startup "Monopulse", website: https://www.monopulse.eu: 
 		- I was assigned a task to work with embedded Linux in the yacto project.	
@@ -68,8 +67,8 @@ Programming languages (in order):
 
 Education:
 	2008 - 2020: Minties gimnazija
-	2020 - 2023: Vilniaus Kolegija (Kompiuterių sistemos)
-	2024 - dabar: Techin (Elektrikas)
+	2020 - 2023: Vilniaus Kolegija (Computer Systems)
+	2024 - dabar: Techin (Electrician)
 
 Hobbies:
 	Biking

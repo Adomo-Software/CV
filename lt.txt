@@ -1,62 +1,75 @@
-Istorija:
-	Daugiausia turiu patirties su linux'ais, unix'ais, c programavimo
-	kalba.
-	Mėgstu atrasti naujus, inovatyvius sprendimus, sprendžiant įvairias IT problemas
-	Patinka naudotis įdomiais open-source sprendimais, ieškau įdomių
-	idėjų, ir bandau jas pats implementuot, ar kartais patobulint.
-	Trumpai esu dirbęs keliuose startup'uose. Bendradarbiaudamas būnu aktyvus.
-	Startapuose ka buvau daręs:
-	- start-up 1: Rašiau Python automotizavimo script'us įvairiem task'ams (daugiausiai
-	su web-scrap susiijusias).
-	Keli realūs pavizdžiai:
-	- Bot'as skirtas surasti konkrečios kainos, konkrečiose lokacijose, dviračius.
-	Suradus išsiūsti pranešimus i telegramą.
-	- Bot'as skirtas surasti populiariausius Reddito postus, ir pagal temą, padaryti 10min
-	videjo montažą jas įkelti į skirtingus youtube channel'ius
-	- start-up 2 - Monopulse: Man buvo paskirta užduotis dirbti su 
-	embeded Linux'ais yacto projektu.
-	https://www.monopulse.eu/
-	Pardavinėjau WordPress įdiegimo paslaugas.
+Adomas Daškevičius, Vilnius.
+
+Apie mane:
+  Daugiausia turiu patirties su Linux serveriais, Unix, c programavimo kalba
+  Man patinka įgyvendinti įdomias idėjas.
+
+Patirtis:
+  2024.07 - 2024.09: dirbau su profesionaliu mentoriumi, kuris paskyrė man Java užduotis.
+  Jos peržiūrėtos, pataisytos ir padarytos.
+  Buvo naudojamas Jira task managment, Git - versijų valdymui, „Pull Requests“ - kodo peržiūrai.
+  Visą užduočių atlikimo procesą galite pamatyti toliau pateiktose „GitHub“ nuorodose.
+    https://github.com/Adomo-Software/java-fix-me
+    https://github.com/Adomo-Software/rating-system
+    https://github.com/Adomo-Software/caesars-palace-casino
+    https://github.com/Adomo-Software/cherry-tree-hotel
+    https://github.com/Adomo-Software/continental-hotel
+    https://github.com/Adomo-Software/hotel
+  Jira projektai (užduotys):
+    [Java basics: Hotel](https://algirdasalisauskas.atlassian.net/jira/software/projects/JBH/list)
+    [Java Collections](https://algirdasalisauskas.atlassian.net/jira/software/projects/JC/list)
+    [Java Fix Me](https://algirdasalisauskas.atlassian.net/jira/software/projects/JFM/list)
+  Išmoktos temos: OOP (Encapsulation, Inheritance, Polymorphism, Abstraction), „Junit5“ naudojimas, atminties optimizavimas, „Java“ kodo taisyklių laikymasis
+  (tinkamas kodo formatavimas, stilius, paketo struktūra),
+  git naudojimas.
+  ~2023.09: Sukurta paslauga, padedanti perkelti visus Etsy produktus į WordPress naudojant Etsy & Woocommerce API
+  ~2023.02: Dirbau startup'e "Monopulse", jų svetainė: https://www.monopulse.eu:
+    – Man buvo paskirta užduotis dirbti su embedded Linux yacto projekte.
+  2022.08 - 2022.10: Dirbau startup'e "inn0web", jų svetainė: https://inn0web.com:
+    - Sukūriau bot'ą skirtą surasti konkrečios kainos, konkrečiose lokacijose, dviračius.
+    Radę informaciją nusiųskite į „Telegram“.
+    - Bot'as skirtas surasti populiariausius Reddito postus, ir pagal temą, padaryti 10min
+    videjo montažą jas įkelti į skirtingus youtube channel'ius
+  (PASTABA: šių projektų šaltinio kodas nėra viešas)
+
+Įgūdžiai:
+  Back-end ir serverio administravimo technologijos
+    MySQL (duomenų bazių diegimas, konfigūravimas, stebėjimas) ~1 metai
+    Note.js (ir kitos savosios „Javascript“ native runtimes, kaip deno.js) ~1 metai
+    PHP + PHP routers ~0,5 metų
+    Apache2 ~2 metai
+    Nginx ~1 metai
+    Konteineriai (Docker, Systemd-nspawn, VM's) ~2 metai
+    BSD, ir MacOS sistemų administravimas (ne tik Linux) ~1 metai
+    WordPress ~3 metai
+
+  Web'ai / priekinė dalis:
+    Plain HTML, CSS, Javascript
+    WordPress, PHP
+    Front-end Frameworks, pvz., Astro.js, react.js, php Symfony
 
 Kalbos:
-	English 	Puikiai
-	English 	Lietuviškai
-	Russian 	Vidutiniškai
+  Lietuvos Puikiai
+  Anglų kalba Puikiai
+  Rusijos Vidutiniškai
 
-Igudžiai:
-	Linux (Unix) serverių administracija
-		Bash skriptinimas,
-		Darbų automatizavimas,
-		Sistemos žurnalo registravimas (System logging)
-		Serverio architektūros žinios,
-		Web Programų diegimas (Kaip WordPress)
-		Patirtis su AWS debesies aplinka (AWS cloud architecture)
-		Scalable server/cloud infrastructure (nežinojau kaip išverst i lietuvių kalbą)
-		BSD ir MacOS systemų administravimas
+Programavimo kalbos (eilės tvarka):
+  1. Java ~1 metai
+  2. C ~2 metai
+  3. Javascript ~4 metai
+  4. Bash ~5 metai,
+  5. PHP ~0.5 metai,
+  6. Python ~4 metai,
+  7. C++ ~6 metai
 
-Scripting kalbos:
-	Python,
-	Bash,
-	Javascript.
+Išsilavinimas:
+  2008 - 2020: Minties gimnazija
+  2020 - 2023: Vilniaus Kolegija (Kompiuterių sistemos)
+  2024 - dabar: Techin (Elektrikas)
 
-Back-end
-	MySQL (Duomenų bazų Diegimas, Konfigūravimas, Stebėjimas)
-	Note.js (ir kiti native javascript runtimes, kaip deno.js)
-	PHP routers
-	Apache2
-	Nginx
-
-Web'ai/Front-end:
-	Plain HTML, CSS, Javascript, WordPress, PHP
-	Front-end Framework'ai, kaip "Astro.js", "react.js" "php Symfony"
-
-Java
-	Dirbau su profesionaliu java mentoriu, kuris skyrė man atlikti Java užduotis
-	Užduotys buvo peržiūrėtos, pataisytos, ir atliktos. 
-	Visą užduočių atlikimo procesą galite pažiūrėti per toliau nurodytuose GitHub nuoroduose
-		https://github.com/Adomo-Software/rating-system
-		https://github.com/Adomo-Software/caesars-palace-casino
-		https://github.com/Adomo-Software/java-fix-me
-		https://github.com/Adomo-Software/hotel
-		https://github.com/Adomo-Software/StringMatch_2
-	veikla vyko ~1.5 mėnesius
+Pomėgiai:
+  Važiavimas dviračiu
+  Stovyklavietė
+  Baisios istorijos
+  Mokymosi programinė įranga
+  Maisto gaminimas
