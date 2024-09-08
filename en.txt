@@ -8,7 +8,7 @@ Experience:
 	2024.07 - 2024.09: I worked with a professional mentor who assigned me Java tasks, 
 	which were reviewed, corrected, and completed through a process involving 
 	Jira for task management, Git for version control, and code reviews
-	conducted via Pull Requests. 
+	conducted via Pull Requests.
 	You can see the entire tasking process in the GitHub links below.
 		https://github.com/Adomo-Software/java-fix-me
 		https://github.com/Adomo-Software/rating-system
@@ -16,11 +16,12 @@ Experience:
 		https://github.com/Adomo-Software/cherry-tree-hotel
 		https://github.com/Adomo-Software/continental-hotel
 		https://github.com/Adomo-Software/hotel
-	Jira projects (Tasks):
+	Jira projects (Task descriptions):
 		[Java basics: Hotel](https://algirdasalisauskas.atlassian.net/jira/software/projects/JBH/list)
 		[Java Collections](https://algirdasalisauskas.atlassian.net/jira/software/projects/JC/list)
 		[Java Fix Me](https://algirdasalisauskas.atlassian.net/jira/software/projects/JFM/list)
-	Topics learned: OOP (Encapsulation, Inheritance, Polymorphism, and Abstraction), Junit5 usage, Memory optimization, Advanced Hashmap usage, Following Java code conventions
+		(Total tasks done: 10)
+	Topics learned: OOP (Encapsulation, Inheritance, Polymorphism, and Abstraction), Junit5 usage, Memory optimization, Following Java code conventions
 	(Proper code formatting, styling, package structure),
 	Advanced git usage.
 	~2023.09: Created service to help transfer all Etsy products to WordPress using Etsy & Woocommerce API
@@ -49,6 +50,11 @@ Skills:
 		WordPress, PHP
 		Front-end Frameworks like Astro.js, react.js, php Symfony
 
+
+Soft skills:
+	Learning every day - not breaking schedule to learn 
+	something new about software / computer science for a solid ~3 months (since June 2024)
+
 Languages:
 	Lithuanian Excellent
 	English    Excellent
@@ -63,8 +69,6 @@ Programming languages (in order):
 	6. Python ~4 years,
 	7. C++ ~6 years
 	
-	Note: order is based on confidence/proficiency rather than years of experience.
-
 Education:
 	2008 - 2020: Minties gimnazija
 	2020 - 2023: Vilniaus Kolegija (Computer Systems)
@@ -73,6 +77,5 @@ Education:
 Hobbies:
 	Biking
 	Camping
-	Scary stories
 	Learning Software (unsurprisingly)
 	Making food

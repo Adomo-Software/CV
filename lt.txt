@@ -19,6 +19,7 @@ Patirtis:
     [Java basics: Hotel](https://algirdasalisauskas.atlassian.net/jira/software/projects/JBH/list)
     [Java Collections](https://algirdasalisauskas.atlassian.net/jira/software/projects/JC/list)
     [Java Fix Me](https://algirdasalisauskas.atlassian.net/jira/software/projects/JFM/list)
+    (Total tasks done: 10)
   Išmoktos temos: OOP (Encapsulation, Inheritance, Polymorphism, Abstraction), „Junit5“ naudojimas, atminties optimizavimas, „Java“ kodo taisyklių laikymasis
   (tinkamas kodo formatavimas, stilius, paketo struktūra),
   git naudojimas.
@@ -48,6 +49,10 @@ Patirtis:
     WordPress, PHP
     Front-end Frameworks, pvz., Astro.js, react.js, php Symfony
 
+Minkšti įgūdžiai:
+  Mokytis kiekvieną dieną – laikausi mokymosi grafiko
+  išmokt kažką naujo apie software / computer science ~3 mėnesiams (nuo 2024 m. birželio mėn.)
+
 Kalbos:
   Lietuvos Puikiai
   Anglų kalba Puikiai
@@ -70,6 +75,5 @@ Išsilavinimas:
 Pomėgiai:
   Važiavimas dviračiu
   Stovyklavietė
-  Baisios istorijos
   Mokymosi programinė įranga
   Maisto gaminimas

@@ -1,274 +1,173 @@
 <!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adomo CV</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            padding: 0;
-            display: flex;
-            flex-direction: row;
-            background-color: #f4f4f4;
-            line-height: 1.4rem;
-        }
-        .container {
-            display: flex;
-            flex-wrap: wrap-reverse;
-            flex: 1;
-            padding: 20px;
-            box-sizing: border-box;
-        }
-        .content {
-            flex: 2;
-            overflow-y: ;
-            background: #ffffff;
-            padding: 20px;
-            border-right: 2px solid #ddd;
-        }
-        .titles {
-            flex: 1;
-            background: #eeeeee;
-            padding: 20px;
-        }
-        .titles > * {
-        	padding-top: 1rem;
-        }
-        h2 {
-            margin-top: 0;
-        }
-        pre {
-        	font-family: sans-serif;
-        	margin: 0;
-        }
-  .section {
-	display: flex;
-	justify-content: center;
-	margin: 4rem 0;
-    justify-content: flex-start;
-}
-.section h2 {
-	width: 12rem;
-	margin: 0 1rem;
-	text-align: left;
-}
-.centered-heading {
-    text-align: center;
-}
-        table {
-            width: 50%;
-            font-size: 18px;
-            text-align: left;
-        }
-        th, td {
-            padding: 12px;
-            border-bottom: 1px solid #ddd;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-        h3 {
-        	margin: 0 0 2rem 0;
-        }
-                h4 {
-        	margin: 0 0 1rem 0;
-        }
-    </style>
-</head>
-
-<body>
-    <div class="container">
-        <div class="content">
-            <h1 style="text-align: center; margin-bottom: 4rem;">Adomas Daškevičius</h1>
-            <div class="section">
-                <h2>Istorija</h2>
-                <pre>
-Daugiausia turiu patirties su linux (serveriais, desktopais), unix'ais, c programavimo
-kalba.
-Mėgstu atrasti naujus, inovatyvius sprendimus, sprendžiant įvairias IT problemas
-Patinka naudotis įdomiais open-source sprendimais, ieškau įdomių
-idėjų, ir bandau jas pats implementuot, ar kartais patobulint.
-Trumpai esu dirbęs keliuose startapuose. Bendradarbiaudamas būnu aktyvus.
-Startapuose ka buvau daręs:
-- start-up 1: Rašiau python automotizavimo script'us įvairiem task'ams (daugiausiai
-su web-scrap susiijusias).
-Keli realūs pavizdžiai:
-- Bot'as skirtas surasti konkrečios kainos, konkrečiose lokacijose, dviračius.
-Suradus išsiūsti pranešimus i telegramą.
-- Bot'as skirtas surasti populiariausius reddito postus, ir pagal temą, padaryti 10min
-videjo montažą jas įkelti į skirtingus youtube channel'ius
-- start-up 2: Bendrai dirbau su embeded linux'ais yacto projektu.
-Pardavinėjau wordpress įdiegimo paslaugas.
-			</pre>
-            </div>
-
-            <div class="section">
-                <h2>Kalbos</h2>
-
-                <table>
-                    <thead>
-                        <tr>
-                            <th>Language</th>
-                            <th>Proficiency</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>English</td>
-                            <td>Puikiai</td>
-                        </tr>
-                        <tr>
-                            <td>English</td>
-                            <td>Lietuviškai</td>
-                        </tr>
-                        <tr>
-                            <td>Russian</td>
-                            <td>Vidutiniškai</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-            <!-- 
-   	<div class="section">
-		 <h2>Kalbos</h2>
-    	<div>
-		</div>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    <title></title>
+  </head>
+  <body>
+    <div id="topnav">
+      <a href="lt.html">LT 🇱🇹</a>
+      <a>EN 🇺🇸</a>
+      <button onclick="window.print()">Print 🖨</button>
     </div>
- -->
-            <div class="section">
-                <h2>igudžiai</h2>
-                <div>
-                    <h3>Linux (Unix) serverių administracija</h3>
-                    <h4>Įgudęs</h4>
-                    <pre>
-Bash skriptinimas,
-Darbų automatizavimas,
-Sistemos žurnalo registravimas (System logging)
-Serverio architektūros žinios,
-Web Programų diegimas (Kaip Wordpress)
-Patirtis su AWS debesies aplinka (AWS cloud architecture)
-Scalable server/cloud infrastructure (nežinojau kaip išverst i lietuvių kalbą)
-BSD, MacOS systemų administravimas
-			</pre>
-                </div>
-            </div>
+    <div class="book">
+      <div class="page">
+        <h2>Adomas Daškevičius</h2>
+        <table>
+          <tr>
+            <td>Age:</td>
+            <td>23</td>
+          </tr>
+          <tr>
+            <td>Address:</td>
+            <td>Lithuania, Vilnius</td>
+          </tr>
+          <tr>
+            <td>Email:</td>
+            <td>adomasda@gmail.com</td>
+          </tr>
+          <tr>
+            <td>Phone:</td>
+            <td>864784630</td>
+          </tr>
+        </table>
+        <hr/>
+        <h3>Experience:</h3>
+        <ul>
 
-            <div class="section">
-                <h2>Scripting</h2>
-                <div>
-                    <h4>Įgudęs</h4>
-                    <pre>
-Python,
-Bash,
-Javascript.
-			</pre>
-                </div>
-            </div>
+          <li>
+            2024.07 - 2024.09: I worked with a professional mentor who assigned me Java tasks, which were reviewed, corrected, and completed through a process involving Jira for task management, Git for version control, and code reviews conducted via Pull Requests. You can see the entire tasking process in the GitHub links below.
+                 <ul>
+              <li><a href="https://github.com/Adomo-Software/java-fix-me">
+                  Java fix me</a> <small>(3 tasks)</small></li>
+              <li><a href="https://github.com/Adomo-Software/rating-system">
+                  Rating System</a> <small>(2 tasks)</small></li>
+              <li><a href="https://github.com/Adomo-Software/caesars-palace-casino">
+                  Caesars Palace Casino</a> <small>(1 task)</small></li>
+              <li><a href="https://github.com/Adomo-Software/cherry-tree-hotel">
+                  Cherry tree hotel</a> <small>(1 task)</small></li>
+              <li><a href="https://github.com/Adomo-Software/continental-hotel">
+                  Continental Hotel</a> <small>(1 task)</small></li>
+              <li><a href="https://github.com/Adomo-Software/hotel">
+                  Hotel</a> <small>(2 tasks)</small></li>
+            </ul>
+          </li>
 
-            <div class="section">
-                <h2>Back-end</h2>
-                <div>
-                    <h4>Pažengęs</h4>
-                    <pre>
-MySQL (Duomenų bazų Diegimas, Konfigūravimas, Stebėjimas)
-Note.js (ir kiti native javascript runtimes, kaip deno.js)
-PHP routers
-Apache2
-Nginx
-Java
-</pre>
-                </div>
-            </div>
+          Jira projects (Task descriptions):
+          <ul>
+            <li><a href="https://algirdasalisauskas.atlassian.net/jira/software/projects/JBH/list">
+                Java basics: Hotel</a></li>
+            <li><a href="https://algirdasalisauskas.atlassian.net/jira/software/projects/JC/list">
+                Java Collections</a></li>
+            <li><a href="https://algirdasalisauskas.atlassian.net/jira/software/projects/JFM/list">
+                Java Fix Me</a></li>
+          </ul>
 
+          Topics learned: OOP (Encapsulation, Inheritance, Polymorphism, and Abstraction), Junit5 usage, Memory optimization, Following Java code conventions
+          (Proper code formatting, styling, package structure),
+          Advanced git usage.
 
+          <li>~2023.09: Created service to help transfer all Etsy products to WordPress using Etsy & Woocommerce API</li>
+          <li>~2023.02: Worked at startup "Monopulse", website:
+            <a href="https://www.monopulse.eu">https://www.monopulse.eu</a>
+            <ul><li>I was assigned a task to work with embedded Linux in the yacto project.</li></ul>
+          </li>
+            <li>2022.08 - 2022.10: Worked at startup "inn0web", website:
+            <a href="https://inn0web.com">https://inn0web.com</a>
+            <ul><li>I wrote a bot for finding bicycles of a specific price, in particular locations.
+                  When found, send information to Telegram.</li>
+              <li>The bot is designed to find the most popular Reddit posts, and according to the topic, make 10 min
+                video montage to upload them to different YouTube channels</li>
+            </ul>
+          </li>
+        </ul>
 
-            <div class="section">
-                <h2>Desktopų GUI kurimas</h2>
-                <div>
-                    <h4>vidutinis</h4>
-                    <pre>
-GTK Toolkit C kalba
-QT Framework C++ kalba
-GLFW / SDL + Opengl
-Electron
-			</pre>
-                </div>
-            </div>
+        <hr/>
 
+        <h3>Skills:</h3>
 
-            <div class="section">
-                <h2>Web'ai/Front-end</h2>
-                <div>
-                    <h4>Pažengęs</h4>
-                    <pre>
-Plain HTML, CSS, Javascript, Wordpress, PHP
-Front-end Framework'ai, kaip "Astro.js", "react.js" "php Symfony"
-			</pre>
-                </div>
-            </div>
+        <ul>
+          <li>Back-end and Server administration technologies
+            <ul>
+              <li>MySQL (Database Installation, Configuration, Monitoring) ~1 year</li>
+              <li>Note.js (and other native javascript runtimes like deno.js) ~1 year</li>
+              <li>PHP + PHP routers ~0.5 year</li>
+              <li>Apache2 ~2 years</li>
+              <li>Nginx ~1 year</li>
+              <li>Containers (Docker, Systemd-nspawn, VM's) ~2 years</li>
+              <li>Administration of BSD, and MacOS systems (not only Linux) ~1 year</li>
+              <li>WordPress ~3 years</li>
+            </ul>
+          </li>
+          <li>Web'ai/Front-end
+            <ul>
+<li>Plain HTML, CSS, Javascript</li>
+              <li>WordPress, PHP</li>
+              <li>Front-end Frameworks like Astro.js</li>
+              <li>react.js, php Symfony</li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+      <div class="page">
+              <ul>
+                <li>Soft skills:</li>
+                <ul>
+            <li>Learning every day - not breaking schedule to learn something new about software / computer science for a solid ~3 months (since June 2024)</li>
+                </ul>
+              </ul>
+              <hr/>
+        <h3>Languages</h3>
+        <ul><table>
+            <tr>
+              <td>Lithuanian</td>
+              <td>23</td>
+            </tr>
+            <tr>
+              <td>Address:</td>
+              <td>Lithuania, Vilnius</td>
+            </tr>
+            <tr>
+              <td>Email:</td>
+              <td>adomasda@gmail.com</td>
+            </tr>
+            <tr>
+              <td>Phone:</td>
+              <td>864784630</td>
+            </tr>
+        </table></ul>
+        <hr/>
+        <h3>Programming languages (in order of proficiency):</h3>
+        <ol>
+          <li>Java ~1 year</li>
+          <li>C ~2 years</li>
+          <li>Javascript ~4 years</li>
+          <li>Bash ~5 years,</li>
+          <li>PHP ~0.5 year</li>
+          <li>Python ~4 years,</li>
+          <li>C++ ~6 years</li>
+        </ol>
+        <hr/>
 
+        <h3>Education</h3>
+        <ul>
+          <li>2008 - 2020: Minties gimnazija</li>
+          <li>2020 - 2023: Vilniaus Kolegija (Computer Systems)</li>
+          <li>2024 - dabar: Techin (Electrician)</li>
+        </ul>
+        <hr/>
 
-            <div class="section">
-                <h2>Java</h2>
-                <div>
-                    <h4>Įgudęs</h4>
-            <pre>
-sąvokos kaip OOP, Classes, Objects, Interfaces labai gerai išmokęs.
-            </pre>
-                    <h4>Atliktos Java užduotys</h4>
-                    <pre>
-Dirbau su java profesionalu, kurie skyrė man atlikti Java užduotis
-Užduotys buvo peržiūrėtos, pataisytos, ir atliktos. 
-Visą užduočių atlikimo procesą galite pažiūrėti per toliau nurodytuose github nuoroduose
-</pre>
-
-<div style="display: grid; margin-top: 1rem;"> <!-- BAD style it poperly TODO -->
-    <a href="https://github.com/Adomo-Software/rating-system">https://github.com/Adomo-Software/rating-system</a>
-    <a href="https://github.com/Adomo-Software/caesars-palace-casino-5">https://github.com/Adomo-Software/caesars-palace-casino-5</a>
-    <a href="https://github.com/Adomo-Software/java-fix-me">https://github.com/Adomo-Software/java-fix-me</a>
-    <a href="https://github.com/Adomo-Software/hotel">https://github.com/Adomo-Software/hotel</a>
-    <a href="https://github.com/Adomo-Software/StringMatch_2">
-             https://github.com/Adomo-Software/StringMatch_2
-    </a>
+        <h3>Hobbies</h3>
+        <ul>
+          <li>Biking</li>
+          <li>Camping</li>
+          <li>Learning Software (unsurprisingly)</li>
+          <li>Learning Software (unsurprisingly)</li>
+        </ul>
+      </div>
+    </div>
 </div>
-<!-- TODO: add README of task description to each repo -->
-
-                </div>
-
-            </div>
-
-
-            <!-- ENNDDDD -->
-        </div>
-        <div class="titles">
-            <h2>Asmens informacija</h2>
-            <!-- <p>Description or details for Title 1.</p> -->
-            <pre>
-	Gimimo data: 2001.07.24 (23 m.)
-	Miestas: Vilnius
-	Telefonas: +37064784630
-	El. paštas: adomasda@gmail.com
-</pre>
-            <h2>Trumpas įgūdžių aprašas</h2>
-            <pre>
-	Systems - C, C++, Java
-	Scripting - Python, Bash, Lua, Php, Lisp/Scheme.
-	Dev-ops - Docker, AWS, Systemd-nspawn
-	Web - Javascript, HTML, CSS, PHP (Plain PHP, Wordpress, Symfony), React.js
-	patirties ~3-5m
-</pre>
-
-</pre>
-            <h2>Github profilis</h2>
-            <a style="margin-left: 2rem;" href="https://github.com/adomo-Software/">https://github.com/adomo-Software/
-            </a>
-            <!-- <h2>Title 3</h2> -->
-            <!-- <p>Pageidaujamas atlyginimas: 1500 Eur (atskaičius mokesčius)</p> -->
-        </div>
-
-    </div>
 </body>
-
 </html>
