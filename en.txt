@@ -1,0 +1,81 @@
+Adomas Daškevičius, Vilnius.
+
+About me:
+	I mostly have experience with Linux servers, Unix, c programming language
+	I like Implementing interesting ideas.
+
+Experience:
+	2024.07 - 2024.09: I worked with a professional mentor who assigned me Java tasks, 
+	which were reviewed, corrected, and completed through a process involving 
+	Jira for task management, Git for version control, and code reviews
+	conducted via Pull Requests.
+	You can see the entire tasking process in the GitHub links below.
+		https://github.com/Adomo-Software/java-fix-me
+		https://github.com/Adomo-Software/rating-system
+		https://github.com/Adomo-Software/caesars-palace-casino
+		https://github.com/Adomo-Software/cherry-tree-hotel
+		https://github.com/Adomo-Software/continental-hotel
+		https://github.com/Adomo-Software/hotel
+	Jira projects (Task descriptions):
+		[Java basics: Hotel](https://algirdasalisauskas.atlassian.net/jira/software/projects/JBH/list)
+		[Java Collections](https://algirdasalisauskas.atlassian.net/jira/software/projects/JC/list)
+		[Java Fix Me](https://algirdasalisauskas.atlassian.net/jira/software/projects/JFM/list)
+		(Total tasks done: 10)
+	Topics learned: OOP (Encapsulation, Inheritance, Polymorphism, and Abstraction), Junit5 usage, Memory optimization, Following Java code conventions
+	(Proper code formatting, styling, package structure),
+	Advanced git usage.
+	~2023.09: Created service to help transfer all Etsy products to WordPress using Etsy & Woocommerce API
+	~2023.02: Worked at startup "Monopulse", website: https://www.monopulse.eu: 
+		- I was assigned a task to work with embedded Linux in the yacto project.	
+	2022.08 - 2022.10: Worked at startup "inn0web", website: https://inn0web.com:
+		- I wrote a bot for finding bicycles of a specific price, in particular locations.
+		When found, send information to Telegram.
+		- The bot is designed to find the most popular Reddit posts, and according to the topic, make 10 min
+		video montage to upload them to different YouTube channels
+	(NOTE: The source code of these projects is not public)
+
+Skills:
+	Back-end and Server administration technologies
+		MySQL (Database Installation, Configuration, Monitoring) ~1 year
+		Note.js (and other native javascript runtimes like deno.js) ~1 year
+		PHP + PHP routers ~0.5 year
+		Apache2 ~2 years
+		Nginx ~1 year
+		Containers (Docker, Systemd-nspawn, VM's) ~2 years
+		Administration of BSD, and MacOS systems (not only Linux) ~1 year
+		WordPress ~3 years
+
+	Web / Front-end:
+		Plain HTML, CSS, Javascript
+		WordPress, PHP
+		Front-end Frameworks like Astro.js, react.js, php Symfony
+
+
+Soft skills:
+	Learning every day - not breaking schedule to learn 
+	something new about software / computer science for a solid ~3 months (since June 2024)
+
+Languages:
+	Lithuanian Excellent
+	English    Excellent
+	Russian    Average
+
+Programming languages (in order):
+	1. Java ~1 year
+	2. C ~2 years
+	3. Javascript ~4 years
+	4. Bash ~5 years,
+	5. PHP ~0.5 year
+	6. Python ~4 years,
+	7. C++ ~6 years
+	
+Education:
+	2008 - 2020: Minties gimnazija
+	2020 - 2023: Vilniaus Kolegija (Computer Systems)
+	2024 - dabar: Techin (Electrician)
+
+Hobbies:
+	Biking
+	Camping
+	Learning Software
+	Making food
