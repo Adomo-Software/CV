@@ -28,8 +28,8 @@ Patirtis:
     – Man buvo paskirta užduotis dirbti su embedded Linux yacto projekte.
   2022.08 - 2022.10: Dirbau startup'e "inn0web", jų svetainė: https://inn0web.com:
     - Sukūriau bot'ą skirtą surasti konkrečios kainos, konkrečiose lokacijose, dviračius.
-    Radę informaciją nusiųskite į „Telegram“.
-    - Bot'as skirtas surasti populiariausius Reddito postus, ir pagal temą, padaryti 10min
+    Bot'as rastą informaciją nusiuntė į „Telegram“.
+    - Sukūriau bot'ą skirtą surasti populiariausius Reddito postus, ir pagal temą, padaryti 10min
     videjo montažą jas įkelti į skirtingus youtube channel'ius
   (PASTABA: šių projektų šaltinio kodas nėra viešas)
 
@@ -44,17 +44,17 @@ Patirtis:
     BSD, ir MacOS sistemų administravimas (ne tik Linux) ~1 metai
     WordPress ~3 metai
 
-  Web'ai / priekinė dalis:
+  Web'ai / Front-end:
     Plain HTML, CSS, Javascript
     WordPress, PHP
-    Front-end Frameworks, pvz., Astro.js, react.js, php Symfony
+    Front-end Frameworks, kaip Astro.js, react.js, php Symfony
 
 Minkšti įgūdžiai:
   Mokytis kiekvieną dieną – laikausi mokymosi grafiko
   išmokt kažką naujo apie software / computer science ~3 mėnesiams (nuo 2024 m. birželio mėn.)
 
 Kalbos:
-  Lietuvos Puikiai
+  Lietuviškai Puikiai
   Anglų kalba Puikiai
   Rusijos Vidutiniškai
 
@@ -74,6 +74,5 @@ Išsilavinimas:
 
 Pomėgiai:
   Važiavimas dviračiu
-  Stovyklavietė
+  Stovyklavimas
   Mokymosi programinė įranga
-  Maisto gaminimas

@@ -45,7 +45,7 @@ Skills:
 		Administration of BSD, and MacOS systems (not only Linux) ~1 year
 		WordPress ~3 years
 
-	Web'ai/Front-end:
+	Web / Front-end:
 		Plain HTML, CSS, Javascript
 		WordPress, PHP
 		Front-end Frameworks like Astro.js, react.js, php Symfony
@@ -77,5 +77,5 @@ Education:
 Hobbies:
 	Biking
 	Camping
-	Learning Software (unsurprisingly)
+	Learning Software
 	Making food
